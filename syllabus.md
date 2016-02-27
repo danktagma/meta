@@ -17,6 +17,7 @@ Common
   * Go
   * Erlang
   * Haskell
+  * Swift
 
 DBO
 ---
