@@ -3,6 +3,7 @@ Algorithms
 Data Structures
 Linux Foo
 Concurrency
+Encryption/Security
 Emacs/Vi
 Modern web programming
 Platform as a service (AWS)
