@@ -34,3 +34,6 @@ AKG
 * Basic AI and Deep Learning
 * Virtual Machines
 * LLVM
+* Computer Architecture
+  * Memory Management - TLB, Page Tables, Caching
+  * Improvements in superscalar ILP techniques
