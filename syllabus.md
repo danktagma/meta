@@ -2,7 +2,7 @@ Common
 ------
 * Algorithms
 * Data Structures
-* Linux Foo
+* Linux-fu
 * Concurrency
 * Encryption/Security
 * Emacs/Vi
@@ -23,10 +23,9 @@ Common
 DBO
 ---
 * Basic AI and Deep Learning
-* Virtual Reality - world generation algorithms
-* Live coding and visualization
+* Procedural world generation
+* Live coding and code visualization
 * Virtual Machines
-* Basic database engines
 * LLVM
 
 AKG
