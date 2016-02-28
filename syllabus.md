@@ -8,6 +8,7 @@ Common
 * Emacs/Vi
 * Modern web programming
 * Platform as a service (AWS)
+* Computer Architecture
 * Languages
   * Clojure
   * Common Lisp
