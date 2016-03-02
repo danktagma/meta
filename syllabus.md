@@ -34,5 +34,5 @@ AKG
 * Virtual Machines
 * LLVM
 * Computer Architecture
-  * Memory Management - TLB, Page Tables, Caching
+  * Memory Management - TLB, page tables, caching
   * Improvements in superscalar ILP techniques
