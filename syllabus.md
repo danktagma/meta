@@ -49,10 +49,10 @@
 
 * AI/Deep Learning
   * History
-	* Biologically inspired models 
-	* Perceptrons
-	* multi-layer: backprop, vanishing gradients
-	* Supervised vs unsupervised, Cooperative vs competitive
+	  * Biologically inspired models 
+	  * Perceptrons
+	  * multi-layer: backprop, vanishing gradients
+  * Supervised vs unsupervised, Cooperative vs competitive
 	  * Kohonen, Sparse autoencoders, RBMs
 	  * Backprop, gradient descent
 	  * Boosting, bagging, society of expert models
