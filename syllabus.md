@@ -45,6 +45,23 @@
   * Memory Management - TLB, page tables, caching
   * Improvements in superscalar ILP techniques
 
+## MMN
+
+* AI/Deep Learning
+ * History
+  * Biologically inspired models 
+  * Perceptrons
+  * multi-layer: backprop, vanishing gradients
+ * Supervised vs unsupervised, Cooperative vs competitive
+  * Kohonen, Sparse autoencoders, RBMs
+  * Backprop, gradient descent
+  * Boosting, bagging, society of expert models
+* Making the world better (or worse)
+ * Everybody gets their own personal life advisor. It's paid for by:
+  * the user
+  * Google
+  * the Chinese government
+  
 # Project Ideas
 
 ## Generate optimized hash table from LLVM
