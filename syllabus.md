@@ -57,10 +57,12 @@
 	  * Backprop, gradient descent
 	  * Boosting, bagging, society of expert models
 * Making the world better (or worse)
-  * Everybody gets their own personal life advisor. It's paid for by:
-    * the user
-    * Google
-    * the Chinese government
+	Who will benefit, and how, from massive data about each one of us? 
+ * Expect ever more integrated apps. mail+calendar+itinery+money is just the start.
+ * Expect ever more data in big dbs about individuals (1 petabyte = 3mb
+ for every person in the US)
+ * Expect simulation and prediction at the individual level
+ 
 
 # Project Ideas
 
