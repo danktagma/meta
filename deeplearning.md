@@ -1,6 +1,6 @@
 
 
-1. Perceptrons
+# Perceptrons
 * Maps n-dimensional input to a single binary output.
 * Function is y = f(w*x + b)
 * f is lambda x: x > 0
@@ -11,7 +11,7 @@
 
 * Unable to learn an XOR or equality function
 
-2. Extension: Multiclass Perceptron
+# Extension: Multiclass Perceptron
 * Train an array of perceptrons
 * w is now a matrix, b is a vector
 
@@ -21,12 +21,12 @@
 
 * This should achieve about 91% on the MNIST dataset.
 
-3. Extension: Multiple Layers of Multiclass Perceptrons
+# Extension: Multiple Layers of Multiclass Perceptrons
 * Have the y values (hidden units) feed into a second perceptron layer
 * Train the network using backpropagation (chain rule)
 * Important f be a non-linear function, else we are no more powerful than a single layer
 * F also needs to be effectively differentiable else chain rule won't help
-     
+
 * Possible f could be things like:
   *     x if x > 0 else 0
   *     sigmoid/tanh functions
@@ -37,7 +37,7 @@
 * Deep networks are really slow to learn because the chaining results in vanishing gradients at the earlier levels
   * This seems wrong, like I'm trying to recognize cats vs dogs, and that drives (badly) my learning of vertical lines at the pixel level
       
-4. Externsion: Unsupervised Learning
+# Externsion: Unsupervised Learning
 * Have the earlier layers, at least, learn a good representation of the input data without labelling
 * Maybe define an two layer auto-encoder: x -> y -> x'
     *    If y is as big as x, it probably won't learn anything more than x == y == x'
@@ -47,7 +47,7 @@
 * Worse, classical methods do as well or better. See PCA, k-means, etc that can get to high 90s on MNIST
 * Alternatives also include Kohonen type networks (essentially k-means to a low-dimensional space) that get 96%+ on MNIST
       
-5 So that's the state of the art in the late 1980s
+# So that's the state of the art in the late 1980s
 * Not very promising to scale deeply
 *  Support Vector Machines started getting better results than ANNs
 
@@ -59,9 +59,9 @@
    
 * But, if you have intuition about the above, the recent advances are pretty easy to understand
 
-* Here's a good overview of recent applications and various modern tricks:
+# Here's a good overview of recent applications and various modern tricks:
 https://www.udacity.com/course/deep-learning--ud730
 
-* Here's the stuff on RBMs (Hinton) there's a lot of deep ideas here:
+# Here's the stuff on RBMs (Hinton) there's a lot of deep ideas here:
 https://www.youtube.com/watch?v=AyzOUbkUf3M
 
