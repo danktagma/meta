@@ -41,9 +41,11 @@
 * Basic AI and Deep Learning
 * Virtual Machines
 * LLVM
+* Linux-fu
 * Computer Architecture
   * Memory Management - TLB, page tables, caching
   * Improvements in superscalar ILP techniques
+* Apache Spark
 
 ## MMN
 
